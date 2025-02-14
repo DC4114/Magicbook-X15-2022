@@ -1,5 +1,6 @@
-# macOS  on Honor Magicbook X15 2022 <p align="center">
-<img src="Wiki/Images/magicbook-x15-sequoia.png" alt="Huawei macOS Sequoia" width="300" />
+# macOS  on Honor Magicbook X15 2022 
+<p align="center">
+<img src="Wiki/Images/magicbook-x15-sequoia.png" alt="Huawei macOS Sequoia" width="500" />
 </p>
 <p align="center">
 <a href="https://www.honor.com/my/support/laptop/honor-magicbook-x15/" target="_blank"><img src="https://img.shields.io/badge/Model-BBR_WA19-orange.svg" /></a>
