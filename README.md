@@ -104,4 +104,11 @@
 
 </div>
 
+<br>
+<div align="left">
+
+## <strong> ⚙️ Changelog</strong>
+
+</div>
+
 </p>
