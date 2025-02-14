@@ -21,3 +21,25 @@
 |   <img src="Wiki/Images/assets_big_sur.png" width=25 hspace=2 /> <a href="https://developer.apple.com/documentation/macos-release-notes/" target="_blank"><img src="https://img.shields.io/badge/macOS-Big_Sur-red.svg" /></a>    |   `Stable` 11.0.1 (20B29)  »  11.6.8 (20G730) |   `Compatible`   |
 <div/>
 
+<br>
+<div align="left">
+
+## <strong>🖥️ Configuration</strong>
+
+</div>
+
+
+</p>
+<div align="center">
+  
+| Specifications      | Details                                          |
+| :--- | :--- |
+| Computer model      | Honor Magicbook X15 Space Gray                   |
+| Processor           | Intel Core i3-10110U Processor @ 2.6 GHz         |
+| Memory              | 8 GB DDR4x2 2400 MHz [Sk Hynix]                  |
+| Hard Disk           | SSSTC M.2 NVMe 256 GB [CL1-8D256]                |
+| Integrated Graphics | Intel(R) UHD Graphics 620                        |
+| Screen              | BOE NV15 Display @ 1920 x 1080 (15.6 inch)       |
+| Sound Card          | Realtek ALC256                                   |
+| Wireless Card       | Intel Dual Band Wireless-AC 8265/8275            |
+| Bluetooth Card      | Intel Bluetooth 8265/8275                        |
