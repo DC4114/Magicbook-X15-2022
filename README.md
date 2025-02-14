@@ -112,3 +112,5 @@
 </div>
 
 </p>
+
+<li>Updated <code>Opencore 1.0.3</code> and Kexts to the latest Version</li>
