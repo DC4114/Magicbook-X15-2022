@@ -30,7 +30,7 @@
 
 
 </p>
-<div align="center">
+<div align="left">
   
 | Specifications      | Details                                          |
 | :--- | :--- |
@@ -43,3 +43,65 @@
 | Sound Card          | Realtek ALC256                                   |
 | Wireless Card       | Intel Dual Band Wireless-AC 8265/8275            |
 | Bluetooth Card      | Intel Bluetooth 8265/8275                        |
+<div/> 
+
+
+
+<br>
+<div align="left">
+
+## <strong> 🔧 Status</strong>
+
+</div>
+
+
+</p>
+<div align="left">
+
+| Function       | Status       |
+|---------------|-------------|
+| Intel UHD 620         | ✅ Working  |
+| Audio      | ✅ Working  |
+| Headphones    | ✅ Working  |
+| Touchpad      | ✅ Working  |
+| Wi-Fi         | ⚠️ Working  |
+| Bluetooth         | ✅ Working  |
+| Sleep Mode         | ✅ Working  |
+| HDMI output         | ✅ Working  |
+| USB      | ✅ Working  |
+| brightness control     | ✅ Working  |
+| Camera   | ❌ Not Working |
+| Fingerprint Sensor | ❌ Not Working |
+
+</div> 
+<br>
+<div align="left">
+
+## <strong> 📌 Notes</strong>
+
+</div>
+
+</p>
+<ul>
+  <li><strong>⚠️warning: This EFI is meant to be used as a starting points</strong>.</li>
+  <li><strong>⚠️warning: You should create your own EFI from scratch to ensure stability and compatability with your device.</strong></li>
+  <li>Change MLB, ROM,etc.. using MacBookAir9,1 SMBIOS.</li>
+  <li>OpenCore and Kexts are up to date. [Feb 10 2025] </li>
+  <li>⚠️ Currently, Wi-Fi only works with Heliport.</li>
+  <li>Audio works via <code>AppleALC.kext</code> and <code>layout-id 21</code></li>
+  <li>Camera isn't working on my model <code>[ov9734_azurewave_camera]</code>, but it might work on other models.</li>
+</ul>
+
+</div> 
+<br>
+<div align="left">
+<details>
+<summary><strong>📊 Benchmarks</strong></summary>
+
+ ![](Wiki/Images/geekbench_1.jpeg) 
+ ![](Wiki/Images/geekbench_MC.jpeg) 
+ ![](Wiki/Images/geekbench_SC.jpeg) 
+
+</div>
+
+</p>
