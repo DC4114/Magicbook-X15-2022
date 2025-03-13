@@ -14,7 +14,7 @@
 
 |    macOS    |   |   Status   |
 | :--- | :--- | :--- |
-|   <img src="Wiki/Images/assets_sequoia.png" width=25 hspace=2 /> <a href="https://developer.apple.com/documentation/macos-release-notes/" target="_blank"><img src="https://img.shields.io/badge/macOS-Sequoia-brightgreen.svg" /></a>    |   `Stable` Version 15.2 (24C101)  »  latest |   `Current version`   |
+|   <img src="Wiki/Images/assets_sequoia.png" width=25 hspace=2 /> <a href="https://developer.apple.com/documentation/macos-release-notes/" target="_blank"><img src="https://img.shields.io/badge/macOS-Sequoia-brightgreen.svg" /></a>    |   `Stable` Version 15.3.1 (24D70)  »  latest |   `Current version`   |
 |   <img src="Wiki/Images/assets_sonoma.png" width=25 hspace=2 /> <a href="https://developer.apple.com/documentation/macos-release-notes/" target="_blank"><img src="https://img.shields.io/badge/macOS-Sonoma-red.svg" /></a>    |   `Stable` 14.3.1 (23D60)  »  latest |   `Compatible`   |
 |   <img src="Wiki/Images/assets_ventura.png" width=25 hspace=2 /> <a href="https://developer.apple.com/documentation/macos-release-notes/" target="_blank"><img src="https://img.shields.io/badge/macOS-Ventura-red.svg" /></a>    |   `Stable` 13 (22A380)  »  13.6.6 (22G630) |   `Compatible`   |
 |   <img src="Wiki/Images/assets_monterey.png" width=25 hspace=2 /> <a href="https://developer.apple.com/documentation/macos-release-notes/" target="_blank"><img src="https://img.shields.io/badge/macOS-Monterey-red.svg" /></a>   |   `Stable` 12.0.1 (21A559)  »  12.5.1 (21G83) |   `Compatible`   |
